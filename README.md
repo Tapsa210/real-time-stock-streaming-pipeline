@@ -38,7 +38,6 @@ Simulator → Kafka → Consumer → PostgreSQL → Metabase Dashboard
 The dashboard includes:
 
 - 📈 Stock Close Price Trend
-- 📊 Trading Volume Analysis
 - 📉 High vs Low Price Comparison
 - 💰 Open vs Close Movement
 
